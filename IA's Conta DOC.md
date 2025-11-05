@@ -42,8 +42,8 @@ os impactos dessas mudanças na organização do dinheiro.
 O sistema deve utilizar a rede neural para classificar automaticamente as despesas informadas pelo usuário em categorias (como essenciais, 
 supérfluas, recorrentes), facilitando a análise e o planejamento.
 
--RF11 - Personalização:
-O sistema deve permitir que o usuário possa personalizar o sistema, como tema escuro ou claro.
+-RF11 - Configurações:
+O sistema deve permitir que o usuário possa configurar o sistema, como tema escuro ou claro, alterar a senha ou o perfil do usuário.
 ________________________________________________________________________
 Requisitos Não Funcionais (RNF)
 
