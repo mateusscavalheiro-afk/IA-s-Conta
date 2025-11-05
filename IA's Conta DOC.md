@@ -9,7 +9,7 @@ ____________________________________________________________________
 Requisitos Funcionais (RF)
 
 -RF1 - Gestão de Dados Financeiros:
-O sistema deve permitir o gerenciamento dos dados financeiros do usuário (fontes de receita e despesas).
+O sistema deve permitir o gerenciamento dos dados do usuário (fontes de receita e despesas, configurações, senhas).
 
 -RF2 - Análise e Organização Financeira:
 O sistema deve organizar as finanças do usuário e sugerir uma divisão percentual do dinheiro com base nas preferências do usuário.
