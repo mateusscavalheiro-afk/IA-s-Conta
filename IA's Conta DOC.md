@@ -41,6 +41,9 @@ os impactos dessas mudanças na organização do dinheiro.
 -RF10 - Classificação Inteligente de despesas:
 O sistema deve utilizar a rede neural para classificar automaticamente as despesas informadas pelo usuário em categorias (como essenciais, 
 supérfluas, recorrentes), facilitando a análise e o planejamento.
+
+-RF11 - Personalização:
+O sistema deve permitir que o usuário possa personalizar o sistema, como tema escuro ou claro.
 ________________________________________________________________________
 Requisitos Não Funcionais (RNF)
 
