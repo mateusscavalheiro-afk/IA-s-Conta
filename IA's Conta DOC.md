@@ -85,3 +85,5 @@ garantindo a confiabilidade das análises.
 tipo de transação (receita ou despesa), em conformidade com as políticas de uso da plataforma.
 
 -RN5 - Simulações de cenários financeiros não podem ser convertidas em metas sem confirmação explícita do usuário.
+
+-RN6 - O sistema não pode exceder o limite de um chat ativo (caso o usuário queira um novo, ele poderá apagar o histórico e dados do chat atual).
