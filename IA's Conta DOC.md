@@ -44,6 +44,9 @@ supérfluas, recorrentes), facilitando a análise e o planejamento.
 
 -RF11 - Configurações:
 O sistema deve permitir que o usuário possa configurar o sistema, como tema escuro ou claro, alterar a senha ou o perfil do usuário.
+
+-RF12 - Suporte:
+O sistema deve permitir o contato do usuário com alguém do suporte caso haja problemas.
 ________________________________________________________________________
 Requisitos Não Funcionais (RNF)
 
