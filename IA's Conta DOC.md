@@ -74,7 +74,7 @@ O sistema deve ser compatível com diferentes navegadores.
 -RNF8 - Manutenibilidade:
 O código do sistema deve ser bem estruturado, modular e documentado.
 
-RNF9 - Suporte:
+-RNF9 - Suporte:
 O sistema deve registrar o chamado de suporte quando requerido pelo usuário.
 _________________________________________________________________________
 Regras de Negócio (RN)
